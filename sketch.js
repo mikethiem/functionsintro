@@ -18,6 +18,7 @@ function draw() {
 }
 
 function display() {
+  fill(150, 25,200)
   circle(ball.x, ball.y, 90) // callin a function
 
 }
